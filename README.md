@@ -5,8 +5,8 @@ A CLI tool written in Python that fetches the recent GitHub activity of a user.
 - Python 3.x
 - pip
 
-## Project url
-https://github.com/losthread/gh-feed
+## Project reference url
+https://roadmap.sh/projects/github-user-activity
 
 ## Installation
 
